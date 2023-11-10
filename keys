@@ -1,0 +1,6 @@
+//zPupFtq5Mc5kBu9v --mongodb key
+
+MONG_URL = 'mongodb+srv://nitin6810yadav:zPupFtq5Mc5kBu9v@mernapp.vslmi4x.mongodb.net/?retryWrites=true&w=majority'
+PORT = 4000 
+
+OPENAI_API_KEY = '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'
